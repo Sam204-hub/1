@@ -1,0 +1,2 @@
+a="How are you today?"
+input(a)
