@@ -1,0 +1,2 @@
+a=int(input("How are you today?"))
+print(a)
