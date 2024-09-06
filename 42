@@ -1,0 +1,3 @@
+a="Hello"
+while a>0:
+  print(YES!)
